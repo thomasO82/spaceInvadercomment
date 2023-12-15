@@ -1,0 +1,38 @@
+Space invaders :
+
+
+Premiere étape : 
+
+Creer et afficher la map avec le personage.
+
+Deuxieme etape,
+
+Creer et afficher le personage
+
+Troisime etape,
+
+afficher les ennemie
+
+Quatrieme etape :
+
+faire bouger le personnage
+
+Cinquieme etape
+
+Faire bouger les ennemies
+
+Siximeme etape : 
+
+Game over si les ennemie touche le ligne juste avant le joueur
+
+Septieme etape : faire tirer le joueur
+
+
+Huitieme etape: 
+
+Faire en sorte de detruire un enemie si le tir touche un ennemi
+
+
+demarer le jeu 
+
+
